@@ -33,7 +33,7 @@ The screenshot below shows an example of a movie review being classified using t
 
 The project involved completing and recording annotations for 100 movie reviews in Label Studio.
 
-[View completed annotation tasks](completed-annotations.png)
+![View completed annotation tasks](completed-annotations.png)
 
 ## Project Outcome
 
