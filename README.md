@@ -27,13 +27,13 @@ To gain practical experience in text classification and data annotation by revie
 
 The screenshot below shows an example of a movie review being classified using the Label Studio annotation interface.
 
-![Movie sentiment annotation in Label Studio](images/sentiment-annotation.png)
+![Movie sentiment annotation in Label Studio](sentiment-annotation.png)
 
 ## Completed Annotation Tasks
 
 The project involved completing and recording annotations for 100 movie reviews in Label Studio.
 
-[View completed annotation tasks](images/completed-annotations.png)
+[View completed annotation tasks](completed-annotations.png)
 
 ## Project Outcome
 
